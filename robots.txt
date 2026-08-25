@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carinexora.my.id/sitemap.xml
