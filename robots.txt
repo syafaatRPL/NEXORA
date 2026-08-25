@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /checkout.html
+Disallow: /backend/
+Sitemap: https://carinexora.my.id/sitemap.xml
